@@ -22,9 +22,9 @@ Free and simple API platform
 	
 you will see
 ```json
-	[
-	  "Hello, Phlask!"
-	]	
+[
+  "Hello, Phlask!"
+]	
 ```
 
 
